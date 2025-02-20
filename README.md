@@ -47,8 +47,6 @@ source env/bin/activate  # On Windows, use `env\Scripts\activate`
 Install the required dependencies:
 
 bash
-Копировать
-Редактировать
 pip install -r requirements.txt
 Note: Ensure you have a requirements.txt file listing all necessary packages. If it doesn't exist, you can create one by exporting your current environment's packages.
 
