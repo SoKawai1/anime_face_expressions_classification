@@ -24,8 +24,8 @@ The goal of this project is to build a model that can accurately classify differ
    - `anime_facial_expressions_df.ipynb`: Creates a DataFrame containing image paths and corresponding labels for facial expressions.
 
 3. **Model Development**
-   - `anime_face_expressions_classification_v1.ipynb`: Initial exploration and training of a CNN model for classifying facial expressions.
-   - `anime_face_expressions_classification_v2.ipynb`: Refinement of the model with improved architecture and hyperparameters for better performance.
+   - `anime_face_expressions_classification_v1.ipynb`: Initial exploration and training of a CNN model by using [data set]([https://pages.github.com/](https://www.kaggle.com/datasets/mertkkl/manga-facial-expressions)) taken from Kaggle . 
+   - `anime_face_expressions_classification_v2.ipynb`: Refinement of the model with improved architecture, new data set and hyperparameters for better performance.
 
 ## Installation
 
@@ -40,8 +40,6 @@ To run the notebooks and experiments locally, follow these steps:
 Set up a virtual environment:
 
 bash
-Копировать
-Редактировать
 python3 -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 Install the required dependencies:
