@@ -8,7 +8,6 @@ This project focuses on classifying anime facial expressions using deep learning
 - [Notebooks](#notebooks)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Project Overview
 
