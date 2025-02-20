@@ -1,6 +1,7 @@
 # Anime Face Expressions Classification
-
-This project focuses on classifying anime facial expressions using deep learning techniques. The repository contains various Jupyter notebooks that guide you through the process of data collection, preprocessing, model training, and evaluation.
+![Frame 14 (2)](https://github.com/user-attachments/assets/5e1a8709-e2e9-47e5-962a-7894cfa560c7)
+This projec
+t focuses on classifying anime facial expressions using deep learning techniques. The repository contains various Jupyter notebooks that guide you through the process of data collection, preprocessing, model training, and evaluation.
 
 ## Table of Contents
 
